@@ -1,4 +1,4 @@
-# Laravel 5/6 Task Scheduler with Elastic Beanstalk
+# Laravel 5/6/7/8 Task Scheduler with Elastic Beanstalk
 
 *Ensure one instance in an Elastic Beanstalk environment is running Laravel's Scheduler*
 
